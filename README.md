@@ -3,13 +3,12 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-%23000000.svg?style=for-the-badge&logo=securityscorecard&logoColor=white) ![IAM](https://img.shields.io/badge/IAM%20Expert-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GRC](https://img.shields.io/badge/GRC%20Compliance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
 
 ## 🛡️ Hub Central
-### 🇺🇸 English Version:
 
-This is my central technical hub for Data Governance, GRC, and Cloud Security. Here, I demonstrate how to translate regulatory requirements (LGPD/ISO 27001) into practical cloud infrastructure. My projects focus on the entire Data Lifecycle, ensuring integrity and compliance through Identity Governance (IAM), Security Observability, and Automated Hardening.
+### 🇺🇸 English Version:
+This is my central technical hub for Data Governance, GRC, and Cloud Security. Here, I demonstrate how to translate regulatory requirements (LGPD/ISO 27001) into practical cloud infrastructure and data environments. My projects focus on the entire Data Lifecycle, ensuring integrity and compliance through Identity Governance (IAM), BI & Compliance Dashboards, and Secure Data Infrastructure Auditing.
 
 ### 🇧🇷 Versão em Português:
-
-Este é o meu hub central de Governança de Dados, GRC e Segurança em Nuvem. Aqui, demonstro como traduzir requisitos regulatórios (LGPD/ISO 27001) em infraestrutura prática na nuvem. Meus projetos focam em todo o Ciclo de Vida do Dado, garantindo integridade e conformidade através de Governança de Identidades (IAM), Observabilidade de Segurança e Hardening Automatizado.
+Este é o meu hub central de Governança de Dados, GRC e Segurança em Nuvem. Aqui, demonstro como traduzir requisitos regulatórios (LGPD/ISO 27001) em ambientes de dados e infraestrutura prática na nuvem. Meus projetos focam em todo o Ciclo de Vida do Dado, garantindo integridade e conformidade através de Governança de Identidades (IAM), Dashboards de BI & Conformidade e Auditoria de Infraestrutura Segura de Dados.
 
 ---
 
@@ -23,29 +22,30 @@ Este é o meu hub central de Governança de Dados, GRC e Segurança em Nuvem. Aq
 **PT-BR:** Gestão de Identidades, Privilégio Mínimo, Políticas de Acesso e Criptografia (KMS).  
 **EN:** Identity & Access Management, Least Privilege, Access Policies, and Encryption (KMS).
 
-### 📂 [3. Compliance Observability & SRE](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.Compliance%20Observability%20%26%20SRE)
-**PT-BR:** Monitoramento de segurança, Dashboards de conformidade e detecção de incidentes.  
-**EN:** Security monitoring, Compliance Dashboards, and incident detection.
+### 📂 [3. BI, Metrics & Compliance Dashboards](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.BI%2C%20Metrics%20%26%20Compliance%20Dashboards)
+**PT-BR:** Criação de indicadores de risco, relatórios analíticos de auditoria e painéis gerenciais (BI).  
+**EN:** Risk metrics development, analytical auditing reports, and management panels using Business Intelligence (BI).
 
-### 📂 [4. Secure Infrastructure Hardening](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Infrastructure%20%26%20Hardening)
-**PT-BR:** Administração segura de servidores Linux, automação Bash e endurecimento de sistemas.  
-**EN:** Secure Linux administration, Bash automation, and OS hardening.
+### 📂 [4. Secure Data Infrastructure & Auditing](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Data%20Infrastructure%20%26%20Auditing)
+**PT-BR:** Auditoria de infraestrutura de dados, proteção de servidores de arquivos (ECM/GED) e automação de conformidade (Bash).  
+**EN:** Data infrastructure auditing, file management server security (ECM/GED), and compliance automation (Bash).
 
 ---
 
 
 ## 🎯 Objective / Objetivo
 
-**EN:** To demonstrate professional expertise in **GRC, Cloud Governance** and **IAM**, bridging the gap between corporate records management and modern cloud security architectures. Focused on remote roles and high-level security consulting.
+**EN:** To demonstrate professional expertise in **Data Governance, GRC, Privacy (LGPD/GDPR)**, and **Data Analytics**. My portfolio bridges the gap between secure data infrastructure auditing, information asset management (ECM/GED), and continuous compliance monitoring via analytical dashboards. Focused on global remote roles and high-level consulting.
 
-**PT-BR:** Demonstrar expertise profissional em **GRC, Governança de Nuvem** e **IAM**, unindo a experiência em gestão de ativos críticos com arquiteturas modernas de segurança em nuvem. Focado em posições remotas e consultoria de segurança de alto nível.
+**PT-BR:** Demonstrar expertise profissional em **Governança de Dados, GRC, Privacidade (LGPD/GDPR)** e **Análise de Dados**. Meu portfólio une a auditoria de infraestrutura segura de dados e gestão de ativos de informação (ECM/GED) ao monitoramento contínuo de conformidade por meio de painéis analíticos. Focado em posições remotas internacionais e consultoria de alto nível.
 
 ---
 
 ## 👤 About Me / Sobre Mim
 
-**Information Security Specialist (Post-grad)** with 6 years of experience as a **Records & Information Manager**. 
-*Especialista em Segurança da Informação (Pós-graduado) com 6 anos de experiência como Gerente de Informação e Arquivos.*
+**EN:** **Information Security & Data Governance Specialist (Post-grad)** with 6 years of experience managing critical information assets and digital repositories (ECM/GED). My expertise lies in translating regulatory compliance (LGPD/GDPR) into secure data architectures, conducting infrastructure auditing, and building data analytics panels to monitor corporate risk indicators.
+
+**PT-BR:** **Especialista em Segurança da Informação e Governança de Dados (Pós-graduado)** com 6 anos de experiência na gestão de ativos críticos de informação e repositórios digitais (ECM/GED). Minha expertise está em traduzir conformidade regulatória (LGPD/GDPR) em arquiteturas seguras de dados, conduzir auditorias de infraestrutura e construir painéis analíticos para monitoramento de indicadores de risco corporativo.
 
 ---
 
