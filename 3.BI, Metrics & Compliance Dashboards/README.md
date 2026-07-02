@@ -1,10 +1,10 @@
-# 👁️ GRC Metrics, BI & Compliance Dashboards
+# 👁️ BI, Metrics & Compliance Dashboards
 
 **PT-BR:**
-Este repositório é dedicado à criação de indicadores de risco, relatórios de auditoria e painéis gerenciais utilizando Business Intelligence (BI). Demonstro aqui como construir a "torre de vigilância" analítica essencial para GRC e Privacidade, transformando dados brutos de conformidade, logs de acessos e eventos de segurança em Dashboards dinâmicos, garantindo que a diretoria e os auditores tenham visibilidade clara sobre o nível de segurança e conformidade da empresa.
+Este repositório é dedicado à criação de indicadores de risco, relatórios de auditoria e painéis gerenciais utilizando Business Intelligence (BI). Demonstro aqui como construir a "torre de vigilância" analítica essencial para a Governança e Privacidade de Dados, transformando dados brutos de conformidade, logs de acessos e eventos de segurança em Dashboards dinâmicos, garantindo que a diretoria e os auditores tenham visibilidade clara sobre o nível de conformidade da empresa.
 
 **EN:**
-This repository is dedicated to creating risk metrics, auditing reports, and management panels using Business Intelligence (BI). Here I demonstrate how to build the analytical "watchtower" essential for GRC and Privacy, turning raw compliance data, access logs, and security events into dynamic Dashboards, ensuring that executive boards and auditors have clear visibility into the company's security and compliance posture.
+This repository is dedicated to creating risk metrics, auditing reports, and management panels using Business Intelligence (BI). Here I demonstrate how to build the analytical "watchtower" essential for Data Governance and Privacy, turning raw compliance data, access logs, and security events into dynamic Dashboards, ensuring that executive boards and auditors have clear visibility into the company's compliance posture.
 
 ---
 
