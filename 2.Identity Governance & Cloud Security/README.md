@@ -1,4 +1,4 @@
-# 🔐 Identity Governance & Cloud Security (IAM)
+# 🔐 Identity Governance & Cloud Security
 
 **PT-BR:**
 Este repositório foca na implementação técnica de segurança, controle de acessos e Governança em Nuvem (Cloud Governance). Demonstro aqui a automação de infraestrutura segura (IaC via Terraform) utilizando o princípio do Privilégio Mínimo (Least Privilege) e criptografia de chaves (AWS KMS), garantindo que o ciclo de vida e o acesso ao dado sejam rigidamente controlados, auditáveis e em total conformidade com normas internacionais de segurança e privacidade.
