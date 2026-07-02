@@ -1,10 +1,10 @@
 # 🔐 Identity Governance & Cloud Security (IAM)
 
 **PT-BR:**
-Este repositório foca na implementação técnica de segurança e gestão de identidades sob a ótica de Governança. Demonstro aqui a automação de infraestrutura segura (IaC) utilizando o princípio do **Privilégio Mínimo (Least Privilege)**, garantindo que o acesso ao dado seja controlado, auditável e em conformidade com normas internacionais.
+Este repositório foca na implementação técnica de segurança, controle de acessos e Governança em Nuvem (Cloud Governance). Demonstro aqui a automação de infraestrutura segura (IaC via Terraform) utilizando o princípio do Privilégio Mínimo (Least Privilege) e criptografia de chaves (AWS KMS), garantindo que o ciclo de vida e o acesso ao dado sejam rigidamente controlados, auditáveis e em total conformidade com normas internacionais de segurança e privacidade.
 
 **EN:**
-This repository focuses on the technical implementation of security and identity management through a Governance lens. I demonstrate secure infrastructure automation (IaC) using the **Principle of Least Privilege**, ensuring that data access is controlled, auditable, and compliant with international standards.
+This repository focuses on the technical implementation of security, access control, and Cloud Governance. Here I demonstrate secure infrastructure automation (IaC via Terraform) using the Principle of Least Privilege and encryption (AWS KMS), ensuring that the data lifecycle and data access are strictly controlled, auditable, and fully compliant with international security and privacy standards.
 
 ---
 
@@ -30,10 +30,10 @@ This repository focuses on the technical implementation of security and identity
 ---
 ### 🛠️ Technical Enablers / Pilares Técnicos:
 
-* **Identity Governance:** Implementation of RBAC (Role-Based Access Control) and Fine-grained policies.
-* **Infrastructure as Code (IaC):** Secure and compliant provisioning using Terraform.
-* **Data Protection:** Management of encryption keys (AWS KMS) and Secrets Management.
-* **Zero Trust Architecture:** Moving away from perimeter security to identity-based verification.
+* **Identity Governance:** Implementation of RBAC (Role-Based Access Control), fine-grained policies, and access auditing.
+* **Infrastructure as Code (IaC):** Secure, reproducible, and compliant infrastructure provisioning using Terraform.
+* **Data Protection & Privacy:** Management of encryption keys (AWS KMS) and Secrets Management to secure sensitive data at rest and in transit.
+* **Zero Trust Architecture:** Continuous identity-based verification, ensuring no data access is granted without strict authorization.
 
 
 
