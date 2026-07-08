@@ -29,15 +29,6 @@ My approach combines governance practices, data quality management, and complian
  **EDCF - Data Custody & Compliance Framework (WORM)** 👉 [[Acesse o Repositório]](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
  *Focus: Data Governance, Data Custody, Data Lifecycle Management, Retention Policies, and Compliance Controls.Framework designed to demonstrate governance controls for protecting critical data assets, ensuring integrity, retention management, traceability, and compliance with privacy requirements such as LGPD. The project explores how governance practices can improve data reliability, accountability, and protection throughout the data lifecycle.
  
-
-
-**Cloud Compliance Sentinel Monitoramento e Auditoria Contínua GRC**👉 [[Acesse o Repositório]](https://github.com/Igor-Pantoja/cloud-compliance-sentinel)
- *Foco: é um ecossistema automatizado de Governança, Riscos, Conformidade (GRC) e Infraestrutura como Código (IaC). O objetivo central do projeto é realizar o mapeamento contínuo de vulnerabilidades de configuração em ambientes AWS, aplicando remediações automáticas e imutáveis em conformidade estrita com a **LGPD (Lei Geral de Proteção de Dados)** e os controles de segurança da **ISO/IEC 27001**.*
-
-  **Data Governance & Cloud Foundations**👉[Access Repository](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)  
-  *Foco: Implementação de conformidade LGPD/GDPR, gestão de dados sensíveis e governança aplicada a ambientes Cloud.*
-
- 
 ---
 
 ## 🛠️ Expertise / Data Governance Domains
