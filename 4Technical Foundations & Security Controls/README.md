@@ -40,9 +40,6 @@ These projects represent the technical layer required to understand, protect, an
 👉 [Access Repository](https://github.com/igor-it-portfolio/bash-maintenance-monitor)
 **Foco:** Automação de rotinas operacionais, monitoramento de integridade de sistemas e criação de processos automatizados para melhorar confiabilidade, eficiência e controle de ambientes técnicos.
 
-
-  **Data Governance & Cloud Foundations**👉[Access Repository](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)  
-  *Foco: Implementação de conformidade LGPD/GDPR, gestão de dados sensíveis e governança aplicada a ambientes Cloud.*
 ---
 
 ### 🔐 System Integrity & Auditing / Integridade do Sistema & Auditoria:
