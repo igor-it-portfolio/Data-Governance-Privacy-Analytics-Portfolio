@@ -1,51 +1,91 @@
-# 📂 Portfolio: Data Governance, GRC & Cloud Security
+# 📂 Data Governance, Privacy & Analytics Portfolio
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-%23000000.svg?style=for-the-badge&logo=securityscorecard&logoColor=white) ![IAM](https://img.shields.io/badge/IAM%20Expert-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GRC](https://img.shields.io/badge/GRC%20Compliance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
+![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-%2332CD32.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![BI Analytics](https://img.shields.io/badge/BI%20%26%20Analytics-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Cloud Governance](https://img.shields.io/badge/Cloud%20Governance-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Privacy](https://img.shields.io/badge/Privacy%20(LGPD%2FGDPR)-%23005A9C.svg?style=for-the-badge&logo=privacy&logoColor=white)
 
-## 🛡️ Hub Central
+---
 
-### 🇺🇸 English Version:
-This is my central technical hub for Data Governance, GRC, and Cloud Security. Here, I demonstrate how to translate regulatory requirements (LGPD/ISO 27001) into practical cloud infrastructure and data environments. My projects focus on the entire Data Lifecycle, ensuring integrity and compliance through Identity Governance (IAM), BI & Compliance Dashboards, and Secure Data Infrastructure Auditing.
+# 🛡️ Central Hub | Data Governance & Analytics Portfolio
 
-### 🇧🇷 Versão em Português:
-Este é o meu hub central de Governança de Dados, GRC e Segurança em Nuvem. Aqui, demonstro como traduzir requisitos regulatórios (LGPD/ISO 27001) em ambientes de dados e infraestrutura prática na nuvem. Meus projetos focam em todo o Ciclo de Vida do Dado, garantindo integridade e conformidade através de Governança de Identidades (IAM), Dashboards de BI & Conformidade e Auditoria de Infraestrutura Segura de Dados.
+## 🇺🇸 English Version:
+
+This is my central portfolio for **Data Governance, Data Quality, Privacy, Business Intelligence, and Cloud Governance**.
+
+Here I demonstrate practical approaches to managing trusted data environments, combining **Data Governance frameworks, Data Quality practices, analytics solutions, privacy principles, and cloud-based controls**.
+
+My projects explore the complete data journey — from governance and quality management to analytics, protection, and operational controls — supporting reliable, secure, and data-driven decision-making.
+
+---
+
+## 🇧🇷 Versão em Português:
+
+Este é meu portfólio central de **Governança de Dados, Qualidade de Dados, Privacidade, Business Intelligence e Governança em Nuvem**.
+
+Aqui demonstro aplicações práticas para construção de ambientes de dados confiáveis, combinando **frameworks de Governança de Dados, práticas de Qualidade de Dados, soluções analíticas, princípios de privacidade e controles aplicados a ambientes Cloud**.
+
+Meus projetos exploram toda a jornada do dado — desde governança e qualidade até análise, proteção e controles técnicos — contribuindo para decisões mais seguras, eficientes e orientadas por dados.
 
 ---
 
 ## 🚀 Specialized Portfolio Areas
 
-### 📂 [1. GRC, Data Governance & Privacy](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/1.GRC%2C%20Data%20Governance%20%26%20Privacy)
-**PT-BR:** Gestão de Riscos, Auditoria, ISO 27001 e conformidade LGPD aplicadas à infraestrutura.  
-**EN:** Risk Management, Auditing, ISO 27001, and LGPD/GDPR compliance applied to infrastructure.
+### 📊 [1. Data Governance, Data Quality & Metadata](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Quality%20%26%20Metadata)
 
-### 📂 [2. Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/2.Identity%20Governance%20%26%20Cloud%20Security)
-**PT-BR:** Gestão de Identidades, Privilégio Mínimo, Políticas de Acesso e Criptografia (KMS).  
-**EN:** Identity & Access Management, Least Privilege, Access Policies, and Encryption (KMS).
+**PT-BR:** Frameworks de Governança de Dados, Gestão de Qualidade de Dados, Metadados, Data Ownership, Data Stewardship e Governança do Ciclo de Vida dos Dados.
 
-### 📂 [3. BI, Metrics & Compliance Dashboards](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.BI%2C%20Metrics%20%26%20Compliance%20Dashboards)
-**PT-BR:** Criação de indicadores de risco, relatórios analíticos de auditoria e painéis gerenciais (BI).  
-**EN:** Risk metrics development, analytical auditing reports, and management panels using Business Intelligence (BI).
-
-### 📂 [4. Secure Data Infrastructure & Auditing](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Data%20Infrastructure%20%26%20Auditing)
-**PT-BR:** Auditoria de infraestrutura de dados, proteção de servidores de arquivos (ECM/GED) e automação de conformidade (Bash).  
-**EN:** Data infrastructure auditing, file management server security (ECM/GED), and compliance automation (Bash).
+**EN:** Data Governance frameworks, Data Quality Management, Metadata Management, Data Ownership, Data Stewardship, and Data Lifecycle Governance.
 
 ---
 
+### ☁️ [2. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
+
+**PT-BR:** Governança em Nuvem, AWS, Gestão de Identidades (IAM), Controle de Acesso, Proteção de Dados e práticas de privacidade aplicadas a ambientes Cloud.
+
+**EN:** Cloud Governance, AWS environments, Identity and Access Management (IAM), Access Controls, Data Protection, and privacy practices applied to cloud environments.
+
+---
+
+### 📈 [3. BI, Data Analytics & Governance Insights](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/3.BI%2C%20Data%20Analytics%20%26%20Governance%20Insights)
+
+**PT-BR:** Business Intelligence, Análise de Dados, Desenvolvimento de KPIs, Visualização de Dados, Dashboards e geração de insights para tomada de decisão.
+
+**EN:** Business Intelligence, Data Analytics, KPI development, Data Visualization, Dashboards, and analytical insights for data-driven decision-making.
+
+---
+
+### 🛠️ [4. Technical Foundations & Security Controls](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/4Technical%20Foundations%20%26%20Security%20Controls)
+
+**PT-BR:** Fundamentos técnicos, automação, Linux, monitoramento, controles de segurança e práticas operacionais que suportam ambientes corporativos de dados.
+
+**EN:** Technical foundations, automation, Linux, monitoring, security controls, and operational practices supporting enterprise data environments.
+
+---
 
 ## 🎯 Objective / Objetivo
 
-**EN:** To demonstrate professional expertise in **Data Governance, GRC, Privacy (LGPD/GDPR)**, and **Data Analytics**. My portfolio bridges the gap between secure data infrastructure auditing, information asset management (ECM/GED), and continuous compliance monitoring via analytical dashboards. Focused on global remote roles and high-level consulting.
+**EN:**  
+To demonstrate professional expertise in **Data Governance, Data Quality, Privacy, Business Intelligence, and Cloud Governance**. My portfolio explores how organizations can build trusted data environments by combining governance frameworks, quality practices, analytical solutions, privacy principles, and cloud-based controls. Focused on delivering reliable, secure, and data-driven solutions for modern organizations.
 
-**PT-BR:** Demonstrar expertise profissional em **Governança de Dados, GRC, Privacidade (LGPD/GDPR)** e **Análise de Dados**. Meu portfólio une a auditoria de infraestrutura segura de dados e gestão de ativos de informação (ECM/GED) ao monitoramento contínuo de conformidade por meio de painéis analíticos. Focado em posições remotas internacionais e consultoria de alto nível.
+**PT-BR:**  
+Demonstrar expertise profissional em **Governança de Dados, Qualidade de Dados, Privacidade, Business Intelligence e Governança em Nuvem**. Meu portfólio demonstra como organizações podem construir ambientes de dados confiáveis combinando frameworks de governança, práticas de qualidade, soluções analíticas, princípios de privacidade e controles aplicados a ambientes Cloud. Focado em desenvolver soluções orientadas a dados, seguras e alinhadas às necessidades de negócio.
 
 ---
 
 ## 👤 About Me / Sobre Mim
 
-**EN:** **Information Security & Data Governance Specialist (Post-grad)** with 6 years of experience managing critical information assets and digital repositories (ECM/GED). My expertise lies in translating regulatory compliance (LGPD/GDPR) into secure data architectures, conducting infrastructure auditing, and building data analytics panels to monitor corporate risk indicators.
+**EN:**  
+**Senior Data Governance & Privacy Analyst** with 6+ years of experience managing information assets, data processes, and governance practices. My background combines **Data Governance, Data Quality, Privacy (LGPD/GDPR), Business Intelligence, and Cloud Governance** to help organizations build trusted and reliable data environments.
 
-**PT-BR:** **Especialista em Segurança da Informação e Governança de Dados (Pós-graduado)** com 6 anos de experiência na gestão de ativos críticos de informação e repositórios digitais (ECM/GED). Minha expertise está em traduzir conformidade regulatória (LGPD/GDPR) em arquiteturas seguras de dados, conduzir auditorias de infraestrutura e construir painéis analíticos para monitoramento de indicadores de risco corporativo.
+I specialize in structuring data management practices, improving data reliability, applying privacy principles, and transforming business requirements into practical governance solutions supported by analytics and technology.
+
+
+**PT-BR:**  
+**Analista Sênior de Governança de Dados & Privacidade** com mais de 6 anos de experiência na gestão de ativos de informação, processos de dados e práticas de governança. Minha trajetória combina **Governança de Dados, Qualidade de Dados, Privacidade (LGPD/GDPR), Business Intelligence e Governança em Nuvem** para apoiar organizações na construção de ambientes de dados confiáveis.
+
+Minha atuação é voltada para estruturar práticas de gestão de dados, melhorar a confiabilidade das informações, aplicar princípios de privacidade e transformar necessidades de negócio em soluções práticas de governança apoiadas por dados e tecnologia.
 
 ---
 
